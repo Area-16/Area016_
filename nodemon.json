@@ -1,0 +1,5 @@
+{
+  "watch": ["src", "mail"],
+  "ext": "js",
+  "exec": "babel-node ./src/loader.js"
+}
